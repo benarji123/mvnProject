@@ -1,4 +1,8 @@
 this is added by me
 this is added by someone else
+<<<<<<< HEAD
 ===================
+=======
+---------------------
+>>>>>>> f842cb44c6c0085971b63a9f43ca7b65bf8ba737
 
